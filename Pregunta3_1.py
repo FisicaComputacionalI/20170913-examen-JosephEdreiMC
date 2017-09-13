@@ -15,5 +15,5 @@ plt.plot(t1, 1997+t1, 'mx', t2, 2*f(t1)+1997, 'k--')
 #Note que no es la trigonometrica tal como la pidio, sin embargo, tal como explique en la pregunta 3, la he modificado para que luzca mejor
 plt.subplot(212)
 plt.plot(t2, 2*f(t2), 'r')
-plt.savefig('Pregunta3.png')
+plt.savefig('Pregunta3_1.png')
 plt.show()
